@@ -9,4 +9,22 @@ and now boil it for some time until milk and water are properly boiled up then s
 
 thank you :)
 
+algo_definition_and_steps
+
+
+algorithms : it is combination of sequence(can not change order of sequence) of finite steps (for finite time) to solve a particular Problem.
+steps to design a algo:
+1: problem definition ( what kind of I\O participate.)
+
+2: Design algo(DAC, GT, DP, BROOT FORCE, BACK TRACKIG.)
+
+3: Flow chart()
+
+4: Verification(Testing and again algorithm design.)
+
+5: Implimantation( Now computer will run the the Program. )
+
+6: Analysis(CPU time, Memory time)
+
 finel copy.
+
