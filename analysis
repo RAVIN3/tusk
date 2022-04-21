@@ -1,0 +1,5 @@
+if Problem contain more than one solution better one will be decided by based on two factor.
+
+1: time complexity.(cpu time)
+
+2: space complexity.(main memory)
